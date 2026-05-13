@@ -6,7 +6,7 @@ turtle.setposition(0, -100)
 turtle.fillcolor("brown")
 turtle.pencolor("brown")
 
-while a<2:
+while a<2:            #Bogdán a  fa törzs
     turtle.begin_fill()
     turtle.pendown()
     turtle.forward(40)
