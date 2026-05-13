@@ -18,12 +18,13 @@ while a<2:
 
 turtle.penup()
 
-i = 0
+#Maria, fa lombkorona megrajzolasa
 turtle.setposition(20, 70)
 turtle.pendown()
 turtle.fillcolor("green")
 turtle.pencolor("green")
 turtle.setheading(-90)
+i = 0
 while i < 3:
     turtle.begin_fill()
     turtle.circle(60)
@@ -33,4 +34,4 @@ while i < 3:
 
 turtle.done()
 
-turtle.done()
+
